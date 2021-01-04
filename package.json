@@ -17,6 +17,8 @@
     "web-vitals": "^0.2.4"
   },
   "devDependencies": {
+    "@types/classnames": "^2.2.11",
+    "classnames": "^2.2.6",
     "node-sass": "4.14.1"
   },
   "scripts": {
